@@ -1,0 +1,2 @@
+c:\users\hp\documents\visual studio 2013\Projects\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
+C:\Users\hp\Desktop\Ornek Proje\OrnekProje\OrnekProje\bin\Debug\OrnekProje.exe.config
